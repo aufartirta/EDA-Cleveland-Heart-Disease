@@ -16,7 +16,7 @@ The analysis focuses on critical metrics such as age, sex, chest pain type, colo
 
 ## Key Findings
 
-1. Age and Heart Disease Risk:
+1. Age and Heart Disease Risk: <br/>
    There is a significant increase in the occurrence of heart disease in older patients, confirming that age is a crucial risk factor for cardiovascular conditions.
 2. Gender Differences:
    The analysis reveals a higher prevalence of heart disease in male patients compared to females, suggesting gender as an important factor in heart disease risk assessment.
