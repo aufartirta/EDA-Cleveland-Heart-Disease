@@ -1,8 +1,5 @@
 # Exploratory Data Analysis on Heart Disease dataset
 
-This project conducts an exploratory data analysis on the [Cleveland Heart Disease](https://archive.ics.uci.edu/dataset/45/heart+disease) dataset to examine factors related to heart disease.
-
-
 ## Project Overview
 
 ### Objective:
@@ -16,7 +13,7 @@ The analysis focuses on critical metrics such as age, sex, chest pain type, colo
 
 ## Key Findings
 
-1. Age and Heart Disease Risk: <br/>
+1. Age and Heart Disease Risk: 
    There is a significant increase in the occurrence of heart disease in older patients, confirming that age is a crucial risk factor for cardiovascular conditions.
 2. Gender Differences:
    The analysis reveals a higher prevalence of heart disease in male patients compared to females, suggesting gender as an important factor in heart disease risk assessment.
