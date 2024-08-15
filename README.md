@@ -3,10 +3,10 @@
 ## Project Overview
 
 ### Objective:
-The project aims to develop a predictive model and dashboard for identifying the risk of heart disease using the [UCI Cleveland Heart Disease](https://archive.ics.uci.edu/dataset/45/heart+disease) dataset. The goal is to analyze various medical attributes to predict the likelihood of heart disease, ultimately aiding in early detection and preventive healthcare.
+The project aims to develop a predictive model and dashboard for identifying the risk of heart disease using the UCI Cleveland Heart Disease dataset. The goal is to analyze various medical attributes to predict the likelihood of heart disease, ultimately aiding in early detection and preventive healthcare.
 
 ### Data Sources:
-The project utilizes the UCI Cleveland Heart Disease dataset, which contains 303 instances and 14 attributes, including patient information and various medical measurements.
+The project utilizes the [UCI Cleveland Heart Disease dataset](https://archive.ics.uci.edu/dataset/45/heart+disease), which contains 303 instances and 14 attributes, including patient information and various medical measurements.
 
 ### Key Metrics:
 The analysis focuses on critical metrics such as age, sex, chest pain type, colored arteries (CA), thallium stress test results, exercise-induced angina, ST depression, and maximum heart rate. The target variable is the diagnosis of heart disease, represented as a binary classification.
